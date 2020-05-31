@@ -31,3 +31,8 @@ O projeto foi divido em 4 partes:
 - Aplicação do IPC (Inter-Process-Communication)
 - Configuração do projeto para receber os arquivos 
 - Desenvolvimento dos arquivos da apicação para separar as palavras e configuração da estrutura de um array para ler somente uma palavra e contar as sua repetições
+
+## ❗ Recados
+
+- Para rodar a aplicação basta colocar no seu terminal: npm run electron:serve 
+- Não foi utilizado nenhum banco de dados, visto que a aplicação tem o intuito de mostrar em tela algumas informação e não salvar para uma posterior consulta mais tarde
